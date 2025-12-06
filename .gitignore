@@ -4,12 +4,9 @@
 # ============================
 
 # Build results
-bin/
-obj/
-out/
-publish/
-*.dll
-*.exe
+**/bin/
+**/obj/
+**/.vs/
 
 # User-specific files
 *.user
